@@ -1,0 +1,9 @@
+{
+  "root": true,
+  "plugins": [
+    "html"
+  ],
+  "extends": [
+    "plugin:vue-libs/recommended"
+  ]
+}
