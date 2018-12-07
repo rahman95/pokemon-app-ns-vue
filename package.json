@@ -12,12 +12,12 @@
   },
   "homepage": "https://github.com/rahman95/pokemon-app-ns-vue#readme",
   "nativescript": {
-    "id": "rahman95/pokemon-app-ns-vue",
+    "id": "com.rahman95.pokemon-app-ns-vue",
     "tns-ios": {
-      "version": "0.0.1"
+      "version": "4.2.0"
     },
     "tns-android": {
-      "version": "0.0.1"
+      "version": "4.2.0"
     }
   },
   "dependencies": {
